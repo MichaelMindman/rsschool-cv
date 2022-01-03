@@ -1,0 +1,70 @@
+/* css */
+
+.container {
+    width: 1040px;
+    margin: 30px auto 0;
+}
+
+.body_cv {
+    font-size: 16px;   
+}
+
+.nav_up {
+    font-size: 24px;   
+}
+
+.container_main {
+    font-size: 24px;   
+}
+
+.sec-title {
+    font-size: 24px;   
+}
+
+.Contact {
+    font-size: 24px;   
+}
+
+.About Myself {
+    font-size: 24px;   
+}
+
+.skills {
+    font-size: 24px;
+
+}
+
+.code {
+    font-size: 24px;  
+    color: brown; 
+}
+
+.education {
+    font-size: 24px;   
+}
+
+.projects {
+    font-size: 24px;   
+}
+
+.languages {
+    font-size: 24px;   
+}
+
+.footer {
+    font-size: 24px;   
+}
+
+.footer__year {
+    font-size: 24px;   
+}
+
+.footer__github {
+    font-size: 24px;   
+}
+
+.footer__rsschool {
+    font-size: 24px;   
+}
+
+
