@@ -35,4 +35,4 @@ function(a, b) {
 ### Languages
 * **Russian** - Native
 * **English** - Preintermediate
-* **French** - Basic
+* **French** - Basic.
